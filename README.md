@@ -1,0 +1,1 @@
+This dashboard is for the capstone project of the last course of IBM data analysis certificate by courera. the first tab in the dashboard shows the current tech trends used by participants. the sencond tab shows the future tech trends for the next year. and the last tab shows demographic data of participants.
